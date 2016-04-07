@@ -18,3 +18,6 @@ for ts in tokenized_story:
     if ts not in tokenized_vocabulary:
         misspelled_words.append(ts)
 print(misspelled_words)
+
+http://phunters.lofter.com/post/86d56_66dd375
+https://www.coursera.org/course/ml 
